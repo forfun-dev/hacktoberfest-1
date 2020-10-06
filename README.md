@@ -5,7 +5,6 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 [Read more](https://hacktoberfest.digitalocean.com/faq/)
 
 ## Contributors
-
 - [Virdio Samuel](https://github.com/diosamuel)
 - [Animesh l](https://github.com/sonichigo)
 - [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
@@ -109,6 +108,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Hasan Basri](github.com/verluchie)
 - [Abdul Aziz Ahwan](https://github.com/abdulazizahwan)
 - [Oratakashi Nhamako](https://github.com/oratakashi)
+- [Rdx 11](https://github.com/Rdx11)
 
 
 ## How to contribute
