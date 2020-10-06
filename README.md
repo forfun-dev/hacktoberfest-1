@@ -5,7 +5,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 [Read more](https://hacktoberfest.digitalocean.com/faq/)
 
 ## Contributors
-
+- [Rdx 11](https://github.com/Rdx11)
 - [Virdio Samuel](https://github.com/diosamuel)
 - [Animesh l](https://github.com/sonichigo)
 - [SYAUQIZAIDAN KHAIRAN KHALAF](https://github.com/syauqi)
